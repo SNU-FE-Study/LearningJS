@@ -1,6 +1,8 @@
 # LearningJS
 
-### 프론트엔드(FE) 스터디 - 자바스크립트 스터디 레파지토리
+## 프론트엔드(FE) 스터디 - 자바스크립트 스터디 레파지토리
+
+### 강의 자료 : https://www.youtube.com/playlist?list=PLcqDmjxt30RvEEN6eUCcSrrH-hKjCT4wt
 
 - 강의를 들을 땐 !꼭! 내 손으로 직접 코드를 쳐서 공부하기!!
 - 강의에서 배운 것들을 듣고 여러 코드를 구현해보며 활용력을 익히기!!
